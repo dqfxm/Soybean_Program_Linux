@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Soybean
+Exec=/opt/Soybean3.3/Soybean_Info_System
+Icon=/opt/Soybean3.3/soybeanico.ico
+Comment=This is Soybean_Info_System program3.3
+Terminal=true
+

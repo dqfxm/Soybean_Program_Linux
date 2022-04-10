@@ -1,0 +1,4 @@
+#!/bin/sh
+chmod 777 /opt/Soybean3.1/Soybean.desktop
+cp /opt/Soybean3.1/Soybean.desktop /usr/share/applications/
+cp /opt/Soybean3.1/Soybean.desktop ~/Desktop/

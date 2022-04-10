@@ -1,0 +1,16 @@
+安装方法：
+在当前目录打开Treminal终端
+
+在终端输入：
+sudo dpkg -i soybean_amd64_3.1.deb
+
+卸载方法：
+在终端输入：
+sudo apt-get remove soybean
+或者在终端输入：
+sudo dpkg -r soybean
+
+查看deb包是否安装成功：
+在终端输入
+sudo dpkg -s soybean
+

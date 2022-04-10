@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/switch_on.jpg</file>
+        <file>icons/switch_off.jpg</file>
+        <file>icons/text_img.png</file>
+        <file>icons/about.png</file>
+        <file>icons/download_1.png</file>
+        <file>icons/open.png</file>
+        <file>icons/saveconfig.png</file>
+        <file>icons/open_list.png</file>
+        <file>icons/save.png</file>
+        <file>icons/notebook.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/introduction.png</file>
+        <file>icons/test_2.png</file>
+        <file>icons/switch_off.png</file>
+        <file>icons/switch_on.png</file>
+    </qresource>
+</RCC>

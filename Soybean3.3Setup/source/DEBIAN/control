@@ -1,0 +1,11 @@
+Package: soybean
+Version: 3.3
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends:
+Installed-Size: 512
+Maintainer: dqfxm_1019@163.com
+Description: my soybean_info_system package
+
+
